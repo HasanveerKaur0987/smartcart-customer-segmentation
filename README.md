@@ -2,7 +2,7 @@
 
 Grouping customers of an online store by **how they shop**, so the store can send the right marketing to the right people.
 
-**Live demo:** [link coming soon]
+**Link:** https://smart-cart-customer-segmentation.streamlit.app
 
 ![App overview](images/overview.png)
 
